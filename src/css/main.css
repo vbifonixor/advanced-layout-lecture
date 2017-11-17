@@ -1,5 +1,7 @@
+@import './smth/smth.css';
+
 .hero-batman-logo {
-  background: url('../img/batman.svg');
+  background: url('src/img/batman.svg');
   width: 50%;
   height: 190px;
   background-size: auto 100%;
@@ -10,17 +12,11 @@
 
 .features {
   margin: 80px 0;
-}
-
-.feature-icon {
-  text-align: center;
-  margin: 30px 0;
-}
-
-.feature-text {
-  font-size: 1.2rem;
-  line-height: 1.7;
-  text-align: center;
+  
+  .feature-icon {
+    text-align: center;
+    margin: 30px 0;
+  }
 }
 
 .posts {

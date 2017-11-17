@@ -1,0 +1,12 @@
+.feature-text {
+    font-size: 1.2rem;
+    line-height: 1.7;
+    text-align: center;
+
+    .smth {
+      color: #639;
+      &-deeper {
+        color: #990088;
+      }
+    }
+}

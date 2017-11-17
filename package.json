@@ -1,0 +1,29 @@
+{
+  "name": "advanced-layout-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^7.1.6",
+    "browser-sync": "^2.18.13",
+    "bulma": "^0.6.1",
+    "cssnano": "^3.10.0",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-postcss": "^7.0.0",
+    "jquery": "^3.2.1",
+    "postcss": "^6.0.14",
+    "postcss-base64": "^0.7.1",
+    "postcss-browser-reporter": "^0.5.0",
+    "postcss-import": "^11.0.0",
+    "precss": "^2.0.0",
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
+}
